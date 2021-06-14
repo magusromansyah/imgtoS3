@@ -1,4 +1,4 @@
-## This is Demo for uplaod file to S3 using AWS CLI
+## This is Demo for uplaod file to S3 Laravel
 
 Edit env file add your Access Key and Secret Key
 
