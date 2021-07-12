@@ -1,4 +1,4 @@
-## This is Demo for uplaod file to S3 Laravel
+## This is Demo for upload file to S3 Laravel
 
 Edit env file add your Access Key and Secret Key
 
